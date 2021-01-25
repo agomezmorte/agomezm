@@ -1,10 +1,9 @@
-* Este es un archivo de ejemplo
+* Este es un archivo de ejemplo.
 
 *
 
-* Estas tres primeras lineas estaban inicialmente
+* Estas tres primeras lineas estaban escritas inicialmente.
 
 *
 
-*Esta es la copia local
-
+*Esta es la copia union del repositorio local y de GitHub
