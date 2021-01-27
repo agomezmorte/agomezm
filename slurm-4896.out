@@ -1,0 +1,21 @@
+De forma paralela, usando el comando parallel
+Cortando el fichero
+./Sample1.fastq
+
+Fichero recortado: ./Sample1.fastq
+Cortando el fichero
+./Sample2.fastq
+
+Fichero recortado: ./Sample2.fastq
+Cortando el fichero
+./Sample3.fastq
+
+Fichero recortado: ./Sample3.fastq
+Cortando el fichero
+./Sample4.fastq
+
+Fichero recortado: ./Sample4.fastq
+
+real	0m0,136s
+user	0m0,132s
+sys	0m0,070s
